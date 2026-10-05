@@ -1,0 +1,6 @@
+{
+  "name": "Xennials",
+  "description": "An AI Spokesperson Video Creator that converts scripts into engaging videos with realistic talking avatars, custom backgrounds, and full audio-visual generation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
